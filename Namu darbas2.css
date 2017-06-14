@@ -1,0 +1,21 @@
+
+body {
+    background-image: url("img/splash.jpg");
+}
+table, td, th {
+    border: 2px solid black;
+}
+table {
+    border-collapse: collapse;
+    width: 50%;
+}
+
+th,td {
+    height: 50px;
+    text-align: center;
+}
+th {
+    background-color: #39aa4c;
+    opacity:0.6;
+    color: white;
+}
